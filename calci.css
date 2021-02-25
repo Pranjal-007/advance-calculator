@@ -1,0 +1,130 @@
+.input{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    background-color: brown;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 4px;
+    height: 70px;
+}
+#firstNumber{
+    height: 29px;
+    font-weight: bolder;
+}
+#secondNumber{
+    height: 29px;
+    font-weight: bolder;
+}
+.btn{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: chartreuse;
+    padding: 2px;
+    margin: 2px;
+    height: 70px;
+}
+.add{
+    border: 2px solid black;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 2px;
+    cursor: pointer;
+    font-weight: bolder;
+    background-color:#FF0000;
+}
+.sub{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 2px;
+    cursor: pointer;
+    font-weight: bolder;
+    background-color:#FF0000;
+    height: 50px;
+}
+.mul{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 2px;
+    cursor: pointer;
+    font-weight: bolder;
+    background-color:#FF0000;
+    height: 50px;
+}
+.div{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 2px;
+    cursor: pointer;
+    font-weight: bolder;
+    background-color:#FF0000;
+    height: 50px;
+}
+
+.result{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: brown;
+    font-weight: bolder;
+    text-align: center;
+    border-radius: 20px;
+    padding: 2px;
+    margin: 4px;
+}
+.reset{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* height: 50px; */
+}
+#reset{
+    border-radius: 20px;
+    background:yellow;
+    text-align: center;
+    height: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 20px;
+}
+body{
+    font-family: 'Reggae One', cursive
+}
+.go{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-weight: bolder;
+}

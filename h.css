@@ -1,0 +1,84 @@
+
+.cel{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 40px;
+  padding-top: 30px;
+  /* border: 2px solid red; */
+  font-family: 'Reggae One', cursive;
+  background:  #FFFF00;
+}
+.celcius{
+  /* border: 2px solid red; */
+  border-radius: 10px;
+  height: 69px;
+    width: 133px;
+    font-family: 'Reggae One', cursive;
+    cursor: pointer;
+}
+#firstNumber{
+  height: 33px;
+  width: 430px;
+  font-family: 'Reggae One', cursive;
+}
+.result{
+  /* border: 2px solid red; */
+  margin: 40px;
+  padding: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content:center;
+  height: 86px;
+  width: 358px;
+  font-family: 'Reggae One', cursive;
+  background:  #9D00FF;
+}
+.faren{
+  /* border: 2px solid green; */
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 40px;
+  padding-top: 30px;
+  font-family: 'Reggae One', cursive;
+  background: green;
+}
+#secondNumber{
+  height: 33px;
+  width: 430px;
+  font-family: 'Reggae One', cursive;
+}
+.farenheit{
+  /* border: 2px solid red; */
+  border-radius: 10px;
+  height: 69px;
+    width: 133px;
+    font-family: 'Reggae One', cursive;
+    cursor: pointer;
+}
+.result1{
+  border: 2px solid red;
+  margin: 40px;
+  padding: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content:center;
+  height: 86px;
+  width: 358px;
+  font-family: 'Reggae One', cursive;
+  font-weight: bolder;
+  background: red;
+}
+.go{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-weight: bolder;
+  font-family: 'Reggae One', cursive;
+}
